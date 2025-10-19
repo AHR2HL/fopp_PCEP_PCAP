@@ -75,6 +75,12 @@ Table of Contents
    BuildingPrograms/toctree.rst
    Inheritance/toctree.rst
    AdvancedAccumulation/toctree.rst
+   Recursion/toctree.rst
+   Generators/toctree.rst
+   AdvancedModules/toctree.rst
+   Closures/toctree.rst
+   AdvancedOOP/toctree.rst
+   PCAPPowerTopics/toctree.rst
 
 .. toctree::
     :hidden:
